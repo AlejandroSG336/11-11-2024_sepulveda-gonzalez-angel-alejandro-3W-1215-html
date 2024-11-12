@@ -167,3 +167,123 @@
 
 ![image](https://github.com/user-attachments/assets/a88a5b94-dbb4-4253-822e-fbb6ca8f1c31)
 ![image](https://github.com/user-attachments/assets/b670dd40-13ae-4cd7-9891-51fafb680b46)
+
+9-
+<blockquote>
+  
+    <!DOCTYPE html>
+    
+    <html>
+    
+    <body>
+    
+    <p>aqui ay una cita del sitio web:</p>
+    
+    <blockquote cite="https://www.w3schools.com/"&gt;
+    ![image](https://github.com/user-attachments/assets/008f0701-e76d-4d34-aa6d-4cd7389d8ba7)
+![image](https://github.com/user-attachments/assets/39cd2ddf-6b27-44a6-b955-a836a38a6ba1)
+
+10-
+<!DOCTYPE html>
+
+<html>
+
+  <body>
+
+<p>los navegadores incertan comillas al rededr de una cita textual.</p>
+
+<p>el objetivo d dragon ball es: <q>ser la mejor serie del mundo.</q></p>
+
+</body>
+
+</html>
+![image](https://github.com/user-attachments/assets/4a822668-3fad-4ed8-ae2e-93d10f434874)
+![image](https://github.com/user-attachments/assets/0bb60977-4ec7-4564-be49-10958ee5d9d6)
+
+11-
+<!DOCTYPE html>
+
+<html>
+
+  <body>
+
+<p>la <abbr title=" ">frase de:</abbr>vicente fernandez.</p>
+
+<p>"Uno solo muere cuando lo olvidan"</p>
+
+</body>
+
+</html>
+![image](https://github.com/user-attachments/assets/9a0c59b7-644d-4c04-b357-4bf938873239)
+![image](https://github.com/user-attachments/assets/0e046975-4307-4a66-ad65-758a8b179d59)
+
+12-
+
+<!DOCTYPE html>
+
+<html>
+
+  <body>
+
+<p></p>
+
+<address>
+
+  SG_ANGEL.<br>
+
+vista:<br>
+
+youtube.com<br>
+
+bosque de cataluña, cbtis 128<br>
+
+mx
+
+</address>
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/7425817c-85d9-4241-9b4b-6df3e0a72773)
+![image](https://github.com/user-attachments/assets/2f92ce16-c8b3-4c89-83ca-a483bc542ceb)
+
+13-
+
+
+<!DOCTYPE html>
+
+<html>
+
+  <body>
+
+<p>a continuacion se mostrara una imagen de un hotdog.</p>
+
+<p>un perro salchicha.</p>
+
+<img src=" cute-dibujos-animados-perro-salchicha_138676-2313.avif" width="220" height="300" alt="perro salchicha">
+
+<p><cite>foto de un perro tomada el 1990</cite> por Fabian garcia gutierrez.</p>
+
+</body>
+
+</html>
+![image](https://github.com/user-attachments/assets/8ef4bc40-f6c7-4213-a22a-2b1cbabc5c17)
+![image](https://github.com/user-attachments/assets/c6a0a352-651b-48cf-8306-b13dc6f15eac)
+
+14-
+<!DOCTYPE html>
+
+<html>
+
+  <body>
+
+<p>alejandro SG:</p>
+
+<bdo dir="alejandro SG">"la felicidad de un dia es el recuerdo de otro"</bdo>
+
+</body>
+
+</html>
+![image](https://github.com/user-attachments/assets/33d6adf7-7dd2-4b14-a249-42522ed870ee)
+![image](https://github.com/user-attachments/assets/388b6f0b-24ac-4cac-a23f-8ff5b010ee37)
